@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-boulaich/](https://www.linkedin.com/in/mohammad-boulaich/)
 
-- ⚡ Fun fact **I think that you found this by mistake**
+- ⚡ Fun fact : **I think that you found this by mistake**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
