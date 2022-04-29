@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco !</h3>
 
-- 🌱 I’m currently learning **ML.NET, OpenCV**
+- 🌱 I’m currently learning **OpenCV**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sterben-Universe?tab=repositories](https://github.com/Sterben-Universe?tab=repositories)
-
-- 💬 Ask me about **React JS, MongoDB**
 
 - 📫 How to reach me **med.boulaich@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mohammad-boulaich/](https://www.linkedin.com/in/mohammad-boulaich/)
 
-- ⚡ Fun fact : **I think that you found this by mistake**
+- ⚡ Fun fact : **I think that you found this by accident**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
