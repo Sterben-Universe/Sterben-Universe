@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate Full Stack developer from Morocco !</h3>
+<h3 align="center">A passionate Full Stack developer and Data analyst from Morocco !</h3>
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Flutter - Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sterben-Universe?tab=repositories](https://github.com/Sterben-Universe?tab=repositories)
 
