@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad</h1>
-<h3 align="center">A passionate Full Stack developer and and enthusiast in Data analyst from Morocco !</h3>
+<h3 align="center">A passionate Full Stack developer and and enthusiast Data analyst from Morocco !</h3>
 
 - 🌱 I’m currently learning **Flutter - Dart**
 
